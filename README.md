@@ -1,3 +1,6 @@
+# Warning !
+This works by accident now that I have looked over the code. This probably won't get updates as I recently switched to NixOS after making this to avoid the AUR infection. I have since then become comfortable with NixOS and have made the decision to stay on NixOS.
+
 # Barely a Source Package Manager
 A source package manager written in Lua for Arch-based Linux Distributions. This is just the concept build, everything is subject to change.
 
